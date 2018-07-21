@@ -1,0 +1,17 @@
+{
+  "name": "userserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jayson": "^2.0.6",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.4"
+  }
+}
